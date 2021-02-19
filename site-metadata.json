@@ -1,8 +1,7 @@
 {
     "title": "Planty",
     "palette": "green",
-    "snipcart_api_key": "MzQyNzcxMDQtZTJiMi00NzUyLWJjM2QtZjZmMmNjYTYyNzgwNjM3NDkzNDQ3NjEwOTQyOTY5
-",
+    "snipcart_api_key": "MzQyNzcxMDQtZTJiMi00NzUyLWJjM2QtZjZmMmNjYTYyNzgwNjM3NDkzNDQ3NjEwOTQyOTY5",
     "favicon": "images/favicon.png",
     "logo_light": "images/logo-white.svg",
     "logo_dark": "images/logo.svg",
