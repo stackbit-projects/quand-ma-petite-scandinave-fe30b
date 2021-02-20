@@ -21,7 +21,7 @@
         {
             "type": "action",
             "template": "action",
-            "title": "About",
+            "title": "À propos",
             "url": "/about",
             "style": "link"
         },
