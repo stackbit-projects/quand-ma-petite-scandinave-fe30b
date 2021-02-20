@@ -11,6 +11,8 @@ export default class SmallBuyButton extends React.Component {
             <button className={component + '__item-buy button button--icon-only snipcart-add-item'}
                 data-item-name={_.get(product_page, 'frontmatter.title', null)}
                 data-item-url={_.get(product_page, 'url', null)}
+                data-item-custom1-name={_.get(product_page, 'frontmatter.taille', null)}
+                data-item-custom1-options={_.get(product_page, 'frontmatter.options', null)}
                 data-item-price={_.get(product_page, 'frontmatter.price', null)}
                 {...(_.get(product_page, 'frontmatter.category', null) ? ((() => {
                     let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(product_page, 'frontmatter.category', null));
