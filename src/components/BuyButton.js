@@ -17,6 +17,8 @@ export default class BuyButton extends React.Component {
                     let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(product_page, 'frontmatter.category', null));
                     return ({"data-item-categories": _.get(category_page, 'frontmatter.title', null)});
                 })()) : null)}
+                data-item-id={_.get(product_page, 'frontmatter.id', null)}
+                data-item-id={_.get(product_page, 'frontmatter.id', null)}
                 data-item-id={_.get(product_page, 'frontmatter.id', null)}>
                 <span className="button__icon">
                     <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
