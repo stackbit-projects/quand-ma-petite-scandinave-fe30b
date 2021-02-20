@@ -42,6 +42,24 @@ fields:
   default: product
   config:
     required: true
+- name: options
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Très petit
+    - Petit
+    - Moyen
+    - Grand
+    - Très grand
+    - Très très grand
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Options
 pages:
 - src/pages/products/plant1.md
 - src/pages/products/plant2.md
