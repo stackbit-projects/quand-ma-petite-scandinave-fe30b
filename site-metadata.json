@@ -15,7 +15,7 @@
             "type": "action",
             "template": "action",
             "title": "Boutique",
-            "url": "/store",
+            "url": "/boutique",
             "style": "link"
         },
         {
