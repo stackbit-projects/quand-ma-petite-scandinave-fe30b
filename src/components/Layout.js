@@ -12,7 +12,7 @@ export default class Body extends React.Component {
         return (
             <React.Fragment>
                 <Helmet htmlAttributes={{
-                        lang: 'en',
+                        lang: 'fr',
                     }}>
                     <title>
                         {_.get(this.props, 'pageContext.frontmatter.title', null)}
