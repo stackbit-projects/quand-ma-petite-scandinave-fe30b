@@ -22,7 +22,7 @@
             "type": "action",
             "template": "action",
             "title": "À propos",
-            "url": "/about",
+            "url": "/apropos",
             "style": "link"
         },
         {
