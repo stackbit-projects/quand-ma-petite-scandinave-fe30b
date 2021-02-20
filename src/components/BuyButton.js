@@ -10,6 +10,7 @@ export default class BuyButton extends React.Component {
             <button className="button button--std snipcart-add-item"
                 data-item-name={_.get(product_page, 'frontmatter.title', null)}
                 data-item-url={_.get(product_page, 'url', null)}
+                data-item-id={_.get(product_page, 'frontmatter.id', null)}
                 data-item-price={_.get(product_page, 'frontmatter.price', null)}
                 {...(_.get(product_page, 'frontmatter.default_thumbnail_image', null) ? ({"data-item-image": withPrefix(_.get(product_page, 'frontmatter.default_thumbnail_image', null))}) : null)}
                 data-item-description={_.get(product_page, 'frontmatter.description', null)}
