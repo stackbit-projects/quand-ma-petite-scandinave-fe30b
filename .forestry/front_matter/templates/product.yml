@@ -55,6 +55,7 @@ fields:
   label: Options
   default: Petit|Medium|Large|X-Large
 pages:
+- src/pages/products/ca-sent-la-coupe.md
 - src/pages/products/plant1.md
 - src/pages/products/plant2.md
 - src/pages/products/plant3.md
