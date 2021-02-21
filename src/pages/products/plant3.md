@@ -7,7 +7,6 @@ order: 3
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 category: src/pages/category/cactuses.md
-featured: true
 template: product
 ---
 
