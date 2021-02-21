@@ -1,5 +1,6 @@
 ---
 title: Big plants
-order: 1
+order: 7
 template: category
+
 ---
