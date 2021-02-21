@@ -5,7 +5,7 @@ sections:
 - type: hero_section
   template: hero_section
   section_id: hero_section
-  background_image: "/images/ge-header-1.jpg"
+  background_image: "/images/hero.jpg"
   background_image_opacity: 65
   content: |
     # Quand Ma petite scandinave a ***vu*** que j'***la*** regardait avec un peu d'bave
