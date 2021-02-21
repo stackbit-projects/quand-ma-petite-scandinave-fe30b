@@ -10,6 +10,6 @@ order:
 default_thumbnail_image: "/images/team.jpg"
 default_original_image: "/images/promo.jpg"
 category: ''
-featured: false
+featured: true
 
 ---
