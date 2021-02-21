@@ -19,6 +19,7 @@ fields:
 pages:
 - src/pages/category/bigplants.md
 - src/pages/category/cactuses.md
+- src/pages/category/coton-ouate.md
 - src/pages/category/europe.md
 - src/pages/category/manches-longues.md
 - src/pages/category/summer.md
