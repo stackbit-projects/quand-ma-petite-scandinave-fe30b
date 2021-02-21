@@ -1,37 +1,40 @@
 {
-    "title": "Planty",
-    "palette": "green",
-    "snipcart_api_key": "MzQyNzcxMDQtZTJiMi00NzUyLWJjM2QtZjZmMmNjYTYyNzgwNjM3NDkzNDQ3NjEwOTQyOTY5",
-    "favicon": "images/favicon.png",
-    "logo_light": "images/logo-white.svg",
-    "logo_dark": "images/logo.svg",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
-    "bg_image_primary": "/images/ge-header.jpg",
-    "bg_image_primary_opacity": 60,
-    "bg_image_secondary": "/images/leaf-light-grey.svg",
-    "bg_image_product": "/images/leaf.svg",
-    "main_menu": [
-        {
-            "type": "action",
-            "template": "action",
-            "title": "Boutique",
-            "url": "/boutique",
-            "style": "link"
-        },
-        {
-            "type": "action",
-            "template": "action",
-            "title": "À propos",
-            "url": "/apropos",
-            "style": "link"
-        },
-        {
-            "type": "action",
-            "template": "action",
-            "title": "FAQ",
-            "url": "/faq",
-            "style": "link"
-        }
-    ],
-    "footer_text": "Copyright 2021 Gérant d'estrade. Tous droits réservés."
+  "title": "Planty",
+  "palette": "green",
+  "snipcart_api_key": "MzQyNzcxMDQtZTJiMi00NzUyLWJjM2QtZjZmMmNjYTYyNzgwNjM3NDkzNDQ3NjEwOTQyOTY5",
+  "favicon": "images/favicon.png",
+  "logo_light": "images/logo-white.svg",
+  "logo_dark": "images/logo.svg",
+  "hamburger_background_image": "/images/leaf-light-grey.svg",
+  "bg_image_primary": "/images/ge-header-1.jpg",
+  "bg_image_primary_opacity": 60,
+  "bg_image_secondary": "/images/leaf-light-grey.svg",
+  "bg_image_product": "/images/leaf.svg",
+  "main_menu": [
+    {
+      "type": "action",
+      "template": "action",
+      "title": "Boutique",
+      "url": "/boutique",
+      "style": "link",
+      "arrow": false
+    },
+    {
+      "type": "action",
+      "template": "action",
+      "title": "À propos",
+      "url": "/apropos",
+      "style": "link",
+      "arrow": false
+    },
+    {
+      "type": "action",
+      "template": "action",
+      "title": "FAQ",
+      "url": "/faq",
+      "style": "link",
+      "arrow": false
+    }
+  ],
+  "footer_text": "Copyright 2021 Gérant d'estrade. Tous droits réservés."
 }
