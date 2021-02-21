@@ -1,6 +1,6 @@
 ---
 title: Plants from Europe
-order: 6
+order: 4
 template: category
 
 ---
