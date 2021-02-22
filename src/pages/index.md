@@ -5,7 +5,7 @@ sections:
 - type: hero_section
   template: hero_section
   section_id: hero_section
-  background_image: "/images/stock-photo-two-young-men-watching-sports-competition-and-drinking-beer-166118762.jpg"
+  background_image: "/images/stock-vector-astronaut-the-audience-with-beer-and-popcorn-sitting-in-a-chair-loneliness-in-space-pop-art-retro-637804948.jpg"
   background_image_opacity: 65
   content: |
     # Quand Ma petite scandinave
